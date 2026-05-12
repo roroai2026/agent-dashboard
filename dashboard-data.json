@@ -1,0 +1,56 @@
+{
+  "generatedAt": "2026-05-12T16:40:48.667116+00:00",
+  "agents": [
+    {
+      "id": "bingo",
+      "name": "Bingo",
+      "emoji": "\ud83e\udd16",
+      "role": "Developer / background worker",
+      "status": "pending",
+      "created": null,
+      "lastActive": null,
+      "totalSessions": 0,
+      "totalMessages": 0,
+      "totalTokensIn": 0,
+      "totalTokensOut": 0,
+      "estimatedCostUsd": 0,
+      "recentTopics": []
+    },
+    {
+      "id": "main",
+      "name": "Ram",
+      "emoji": "\ud83d\udc0f",
+      "role": "Personal assistant",
+      "status": "active",
+      "created": "2026-05-08T01:30:08.645Z",
+      "lastActive": 1778584513820,
+      "totalSessions": 7,
+      "totalMessages": 7,
+      "totalTokensIn": 0,
+      "totalTokensOut": 0,
+      "estimatedCostUsd": 0.0,
+      "recentTopics": [
+        "[Tue 2026-05-12 02:23 UTC] [Subagent Context] You are running as a subagent (dep",
+        "[Fri 2026-05-08 01:29 UTC] Wake up, my friend!",
+        "[Tue 2026-05-12 02:45 UTC] [Subagent Context] You are running as a subagent (dep",
+        "can i give you my google api for login",
+        "[Tue 2026-05-12 02:41 UTC] [Subagent Context] You are running as a subagent (dep"
+      ]
+    },
+    {
+      "id": "patty",
+      "name": "Patty",
+      "emoji": "\ud83d\udcca",
+      "role": "AI news & stocks researcher",
+      "status": "pending",
+      "created": null,
+      "lastActive": null,
+      "totalSessions": 0,
+      "totalMessages": 0,
+      "totalTokensIn": 0,
+      "totalTokensOut": 0,
+      "estimatedCostUsd": 0,
+      "recentTopics": []
+    }
+  ]
+}
