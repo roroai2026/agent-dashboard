@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T04:01:15.977576+00:00",
+  "generatedAt": "2026-05-14T16:01:16.536667+00:00",
   "agents": [
     {
       "id": "bingo",
@@ -23,9 +23,9 @@
       "role": "Personal assistant",
       "status": "active",
       "created": "2026-05-08T01:30:08.645Z",
-      "lastActive": 1778731273950,
-      "totalSessions": 15,
-      "totalMessages": 15,
+      "lastActive": 1778774473925,
+      "totalSessions": 17,
+      "totalMessages": 17,
       "totalTokensIn": 0,
       "totalTokensOut": 0,
       "estimatedCostUsd": 0.0,
