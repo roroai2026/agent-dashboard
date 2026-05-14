@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T16:01:16.536667+00:00",
+  "generatedAt": "2026-05-14T22:07:34.485447+00:00",
   "agents": [
     {
       "id": "bingo",
@@ -23,18 +23,18 @@
       "role": "Personal assistant",
       "status": "active",
       "created": "2026-05-08T01:30:08.645Z",
-      "lastActive": 1778774473925,
-      "totalSessions": 17,
-      "totalMessages": 17,
-      "totalTokensIn": 0,
-      "totalTokensOut": 0,
-      "estimatedCostUsd": 0.0,
+      "lastActive": 1778796451956,
+      "totalSessions": 19,
+      "totalMessages": 35,
+      "totalTokensIn": 372,
+      "totalTokensOut": 156565,
+      "estimatedCostUsd": 8.8408,
       "recentTopics": [
         "[cron:95882acf-0773-44a5-b3e7-51d3b0448cec agent-dashboard-refresh] Run the agen",
         "[cron:95882acf-0773-44a5-b3e7-51d3b0448cec agent-dashboard-refresh] Run the agen",
         "[Tue 2026-05-12 02:23 UTC] [Subagent Context] You are running as a subagent (dep",
-        "[Fri 2026-05-08 01:29 UTC] Wake up, my friend!",
-        "[Tue 2026-05-12 02:45 UTC] [Subagent Context] You are running as a subagent (dep"
+        "[cron:df203eac-c7e5-4546-a15d-5c7bd504c0cf ram-review-and-send-to-bingo] Daily p",
+        "[Fri 2026-05-08 01:35 UTC] yes"
       ]
     },
     {
@@ -42,15 +42,17 @@
       "name": "Patty",
       "emoji": "\ud83d\udcca",
       "role": "AI news & stocks researcher",
-      "status": "configured",
-      "created": "2026-05-14T01:47:08.018771+00:00",
-      "lastActive": null,
-      "totalSessions": 0,
-      "totalMessages": 0,
-      "totalTokensIn": 0,
-      "totalTokensOut": 0,
-      "estimatedCostUsd": 0,
-      "recentTopics": []
+      "status": "active",
+      "created": "2026-05-14T18:00:01.236Z",
+      "lastActive": 1778781664894,
+      "totalSessions": 1,
+      "totalMessages": 1,
+      "totalTokensIn": 10,
+      "totalTokensOut": 2648,
+      "estimatedCostUsd": 0.1558,
+      "recentTopics": [
+        "[cron:6c300f1e-76dd-4a31-a0e2-7202bce29f23 patty-daily-research] Daily research "
+      ]
     }
   ]
 }
