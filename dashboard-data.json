@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T16:01:15.861371+00:00",
+  "generatedAt": "2026-05-14T04:01:15.977576+00:00",
   "agents": [
     {
       "id": "bingo",
@@ -23,9 +23,9 @@
       "role": "Personal assistant",
       "status": "active",
       "created": "2026-05-08T01:30:08.645Z",
-      "lastActive": 1778688073919,
-      "totalSessions": 14,
-      "totalMessages": 14,
+      "lastActive": 1778731273950,
+      "totalSessions": 15,
+      "totalMessages": 15,
       "totalTokensIn": 0,
       "totalTokensOut": 0,
       "estimatedCostUsd": 0.0,
@@ -42,8 +42,8 @@
       "name": "Patty",
       "emoji": "\ud83d\udcca",
       "role": "AI news & stocks researcher",
-      "status": "pending",
-      "created": null,
+      "status": "configured",
+      "created": "2026-05-14T01:47:08.018771+00:00",
       "lastActive": null,
       "totalSessions": 0,
       "totalMessages": 0,
