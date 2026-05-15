@@ -1,20 +1,23 @@
 {
-  "generatedAt": "2026-05-15T16:01:15.908876+00:00",
+  "generatedAt": "2026-05-15T21:26:17.510569+00:00",
   "agents": [
     {
       "id": "bingo",
       "name": "Bingo",
       "emoji": "\ud83e\udd16",
       "role": "Developer / background worker",
-      "status": "pending",
-      "created": null,
-      "lastActive": null,
-      "totalSessions": 0,
-      "totalMessages": 0,
-      "totalTokensIn": 0,
-      "totalTokensOut": 0,
-      "estimatedCostUsd": 0,
-      "recentTopics": []
+      "status": "active",
+      "created": "2026-05-14T18:31:07.392000+00:00",
+      "lastActive": 1778869857465,
+      "totalSessions": 2,
+      "totalMessages": 2,
+      "totalTokensIn": 19,
+      "totalTokensOut": 6925,
+      "estimatedCostUsd": 0.0,
+      "recentTopics": [
+        "All done. Here's the rundown:\n\n**\u2705 Pipeline complete for May 15, 2026**\n\n- **New",
+        "All done. Here's the summary of what ran:\n\n**News picks sent to Bingo:**\n1. \ud83e\udd16 *H"
+      ]
     },
     {
       "id": "main",
@@ -23,12 +26,12 @@
       "role": "Personal assistant",
       "status": "active",
       "created": "2026-05-08T01:30:08.645Z",
-      "lastActive": 1778860873889,
-      "totalSessions": 35,
-      "totalMessages": 73,
-      "totalTokensIn": 596,
-      "totalTokensOut": 193173,
-      "estimatedCostUsd": 13.6205,
+      "lastActive": 1778880375249,
+      "totalSessions": 42,
+      "totalMessages": 62,
+      "totalTokensIn": 597,
+      "totalTokensOut": 206172,
+      "estimatedCostUsd": 12.3477,
       "recentTopics": [
         "[cron:95882acf-0773-44a5-b3e7-51d3b0448cec agent-dashboard-refresh] Run the agen",
         "[cron:95882acf-0773-44a5-b3e7-51d3b0448cec agent-dashboard-refresh] Run the agen",
@@ -44,13 +47,14 @@
       "role": "AI news & stocks researcher",
       "status": "active",
       "created": "2026-05-14T18:00:01.236Z",
-      "lastActive": 1778781664894,
-      "totalSessions": 1,
-      "totalMessages": 1,
-      "totalTokensIn": 10,
-      "totalTokensOut": 2648,
-      "estimatedCostUsd": 0.1558,
+      "lastActive": 1778868056324,
+      "totalSessions": 2,
+      "totalMessages": 2,
+      "totalTokensIn": 19,
+      "totalTokensOut": 5251,
+      "estimatedCostUsd": 0.2937,
       "recentTopics": [
+        "[cron:6c300f1e-76dd-4a31-a0e2-7202bce29f23 patty-daily-research] Daily research ",
         "[cron:6c300f1e-76dd-4a31-a0e2-7202bce29f23 patty-daily-research] Daily research "
       ]
     }
