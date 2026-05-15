@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-15T04:01:15.996162+00:00",
+  "generatedAt": "2026-05-15T16:01:15.908876+00:00",
   "agents": [
     {
       "id": "bingo",
@@ -23,18 +23,18 @@
       "role": "Personal assistant",
       "status": "active",
       "created": "2026-05-08T01:30:08.645Z",
-      "lastActive": 1778817673914,
-      "totalSessions": 21,
-      "totalMessages": 59,
-      "totalTokensIn": 496,
-      "totalTokensOut": 176013,
-      "estimatedCostUsd": 12.2278,
+      "lastActive": 1778860873889,
+      "totalSessions": 35,
+      "totalMessages": 73,
+      "totalTokensIn": 596,
+      "totalTokensOut": 193173,
+      "estimatedCostUsd": 13.6205,
       "recentTopics": [
         "[cron:95882acf-0773-44a5-b3e7-51d3b0448cec agent-dashboard-refresh] Run the agen",
         "[cron:95882acf-0773-44a5-b3e7-51d3b0448cec agent-dashboard-refresh] Run the agen",
+        "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n",
         "[Tue 2026-05-12 02:23 UTC] [Subagent Context] You are running as a subagent (dep",
-        "[cron:df203eac-c7e5-4546-a15d-5c7bd504c0cf ram-review-and-send-to-bingo] Daily p",
-        "[Fri 2026-05-08 01:35 UTC] yes"
+        "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n"
       ]
     },
     {
