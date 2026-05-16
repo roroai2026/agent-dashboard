@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T04:01:15.953017+00:00",
+  "generatedAt": "2026-05-16T16:01:16.348325+00:00",
   "agents": [
     {
       "id": "bingo",
@@ -26,18 +26,18 @@
       "role": "Personal assistant",
       "status": "active",
       "created": "2026-05-08T01:30:08.645Z",
-      "lastActive": 1778904073887,
-      "totalSessions": 51,
-      "totalMessages": 76,
-      "totalTokensIn": 691,
-      "totalTokensOut": 223535,
-      "estimatedCostUsd": 14.6169,
+      "lastActive": 1778947273900,
+      "totalSessions": 65,
+      "totalMessages": 90,
+      "totalTokensIn": 793,
+      "totalTokensOut": 245876,
+      "estimatedCostUsd": 16.1599,
       "recentTopics": [
         "[cron:95882acf-0773-44a5-b3e7-51d3b0448cec agent-dashboard-refresh] Run the agen",
         "[cron:95882acf-0773-44a5-b3e7-51d3b0448cec agent-dashboard-refresh] Run the agen",
         "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n",
-        "[Tue 2026-05-12 02:23 UTC] [Subagent Context] You are running as a subagent (dep",
-        "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n"
+        "[cron:eff8f74d-4517-4854-b0c8-e81a7103ec14 patty-news-update] You are Patty, an ",
+        "[Tue 2026-05-12 02:23 UTC] [Subagent Context] You are running as a subagent (dep"
       ]
     },
     {
