@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-18T16:01:16.665681+00:00",
+  "generatedAt": "2026-05-19T04:01:16.032291+00:00",
   "agents": [
     {
       "id": "bingo",
@@ -28,18 +28,18 @@
       "role": "Personal assistant",
       "status": "active",
       "created": "2026-05-08T01:30:08.645Z",
-      "lastActive": 1779120073874,
-      "totalSessions": 123,
-      "totalMessages": 138,
-      "totalTokensIn": 1153,
-      "totalTokensOut": 313056,
-      "estimatedCostUsd": 20.2796,
+      "lastActive": 1779163273896,
+      "totalSessions": 138,
+      "totalMessages": 153,
+      "totalTokensIn": 1276,
+      "totalTokensOut": 338575,
+      "estimatedCostUsd": 22.1191,
       "recentTopics": [
         "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n",
+        "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n",
+        "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n",
         "[cron:6dcca9e7-1379-4cb8-b08b-30f863b0231b daily-memory-write] Daily memory cons",
-        "[cron:95882acf-0773-44a5-b3e7-51d3b0448cec agent-dashboard-refresh] Run the agen",
-        "[cron:95882acf-0773-44a5-b3e7-51d3b0448cec agent-dashboard-refresh] Run the agen",
-        "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n"
+        "[cron:95882acf-0773-44a5-b3e7-51d3b0448cec agent-dashboard-refresh] Run the agen"
       ]
     },
     {
@@ -49,13 +49,14 @@
       "role": "AI news & stocks researcher",
       "status": "active",
       "created": "2026-05-14T18:00:01.236Z",
-      "lastActive": 1779040854987,
-      "totalSessions": 4,
-      "totalMessages": 4,
-      "totalTokensIn": 37,
-      "totalTokensOut": 9670,
-      "estimatedCostUsd": 0.5913,
+      "lastActive": 1779127256160,
+      "totalSessions": 5,
+      "totalMessages": 5,
+      "totalTokensIn": 46,
+      "totalTokensOut": 12163,
+      "estimatedCostUsd": 0.733,
       "recentTopics": [
+        "[cron:6c300f1e-76dd-4a31-a0e2-7202bce29f23 patty-daily-research] Daily research ",
         "[cron:6c300f1e-76dd-4a31-a0e2-7202bce29f23 patty-daily-research] Daily research ",
         "[cron:6c300f1e-76dd-4a31-a0e2-7202bce29f23 patty-daily-research] Daily research ",
         "[cron:6c300f1e-76dd-4a31-a0e2-7202bce29f23 patty-daily-research] Daily research ",
