@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T04:01:16.460225+00:00",
+  "generatedAt": "2026-05-20T16:01:16.829989+00:00",
   "agents": [
     {
       "id": "bingo",
@@ -28,18 +28,18 @@
       "role": "Personal assistant",
       "status": "active",
       "created": "2026-05-08T01:30:08.645Z",
-      "lastActive": 1779249673985,
-      "totalSessions": 168,
-      "totalMessages": 188,
-      "totalTokensIn": 1545,
-      "totalTokensOut": 394070,
-      "estimatedCostUsd": 26.3309,
+      "lastActive": 1779292874001,
+      "totalSessions": 182,
+      "totalMessages": 202,
+      "totalTokensIn": 1644,
+      "totalTokensOut": 412111,
+      "estimatedCostUsd": 27.7441,
       "recentTopics": [
         "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n",
         "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n",
         "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n",
         "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n",
-        "[cron:6dcca9e7-1379-4cb8-b08b-30f863b0231b daily-memory-write] Daily memory cons"
+        "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n"
       ]
     },
     {
