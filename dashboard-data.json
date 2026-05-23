@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T04:01:16.715950+00:00",
+  "generatedAt": "2026-05-23T16:01:16.815546+00:00",
   "agents": [
     {
       "id": "bingo",
@@ -29,12 +29,12 @@
       "role": "Personal assistant",
       "status": "active",
       "created": "2026-05-08T01:30:08.645Z",
-      "lastActive": 1779508874205,
-      "totalSessions": 255,
-      "totalMessages": 266,
-      "totalTokensIn": 2154,
-      "totalTokensOut": 516583,
-      "estimatedCostUsd": 35.1968,
+      "lastActive": 1779552073982,
+      "totalSessions": 269,
+      "totalMessages": 280,
+      "totalTokensIn": 2254,
+      "totalTokensOut": 536981,
+      "estimatedCostUsd": 36.6782,
       "recentTopics": [
         "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n",
         "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n",
