@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T16:01:17.456970+00:00",
+  "generatedAt": "2026-05-23T04:01:16.715950+00:00",
   "agents": [
     {
       "id": "bingo",
@@ -8,18 +8,18 @@
       "role": "Developer / background worker",
       "status": "active",
       "created": "2026-05-14T18:31:07.392000+00:00",
-      "lastActive": 1779301913548,
-      "totalSessions": 5,
-      "totalMessages": 5,
-      "totalTokensIn": 61,
-      "totalTokensOut": 25849,
+      "lastActive": 1779474704216,
+      "totalSessions": 6,
+      "totalMessages": 6,
+      "totalTokensIn": 73,
+      "totalTokensOut": 31438,
       "estimatedCostUsd": 0.0,
       "recentTopics": [
+        "Done \u2014 here's the full rundown:\n\n**\u2705 What happened:**\n\n- **News picks sent:** Ch",
         "Both sends ran into walls \u2014 agent-to-agent is disabled and no WhatsApp session i",
         "Here's the full rundown of what happened:\n\n---\n\n**\u2705 Done:**\n- Read Patty's repor",
         "Done. Here's the rundown:\n\n**News picks (2 stories):**\n- \ud83d\udcc4 *AI-Generated Papers ",
-        "All done. Here's the rundown:\n\n**\u2705 Pipeline complete for May 15, 2026**\n\n- **New",
-        "All done. Here's the summary of what ran:\n\n**News picks sent to Bingo:**\n1. \ud83e\udd16 *H"
+        "All done. Here's the rundown:\n\n**\u2705 Pipeline complete for May 15, 2026**\n\n- **New"
       ]
     },
     {
@@ -29,12 +29,12 @@
       "role": "Personal assistant",
       "status": "active",
       "created": "2026-05-08T01:30:08.645Z",
-      "lastActive": 1779465674181,
-      "totalSessions": 240,
-      "totalMessages": 251,
-      "totalTokensIn": 2042,
-      "totalTokensOut": 496087,
-      "estimatedCostUsd": 33.5949,
+      "lastActive": 1779508874205,
+      "totalSessions": 255,
+      "totalMessages": 266,
+      "totalTokensIn": 2154,
+      "totalTokensOut": 516583,
+      "estimatedCostUsd": 35.1968,
       "recentTopics": [
         "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n",
         "[cron:6361a556-251d-4fe2-9445-ed9551fa373a enterprise-inquiry-alert] Check for n",
@@ -50,12 +50,12 @@
       "role": "AI news & stocks researcher",
       "status": "active",
       "created": "2026-05-14T18:00:01.236Z",
-      "lastActive": 1779386446672,
-      "totalSessions": 8,
-      "totalMessages": 8,
-      "totalTokensIn": 75,
-      "totalTokensOut": 18970,
-      "estimatedCostUsd": 1.1502,
+      "lastActive": 1779472848965,
+      "totalSessions": 9,
+      "totalMessages": 9,
+      "totalTokensIn": 84,
+      "totalTokensOut": 21197,
+      "estimatedCostUsd": 1.2712,
       "recentTopics": [
         "[cron:6c300f1e-76dd-4a31-a0e2-7202bce29f23 patty-daily-research] Daily research ",
         "[cron:6c300f1e-76dd-4a31-a0e2-7202bce29f23 patty-daily-research] Daily research ",
